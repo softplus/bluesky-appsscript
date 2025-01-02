@@ -1,7 +1,7 @@
 /**
  * Bluesky library
  *
- * Source: 
+ * Source: https://github.com/softplus/bluesky-appsscript/blob/main/bluesky.gs
  * (c) John Mueller, MIT license
  * 
  * Requirements
